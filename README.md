@@ -1,1 +1,3 @@
 # tic-tac-toe
+
+A simulation of tic-tac-toe in the browser that pits the player against an AI. This project makes use of basic web development technologies (JavaScript, HTML, CSS) alongside more advanced JavaScript features, such as factory functions (used to emulate the human and CPU players) and the Revealing Module Design Pattern (used to store and access the relevant game logic functions without polluting the global scope).
